@@ -2,7 +2,8 @@
 
 namespace Ddd\Domain;
 
-class DomainEventPublisherTest extends \PHPUnit_Framework_TestCase
+
+class DomainEventPublisherTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @test
@@ -98,5 +99,7 @@ class FakeDomainEvent implements DomainEvent
         $this->name = $name;
     }
 
-    public function occurredOn() {}
+    public function occurredOn()
+    {
+    }
 }

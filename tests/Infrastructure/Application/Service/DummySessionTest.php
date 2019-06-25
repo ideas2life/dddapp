@@ -6,7 +6,7 @@ namespace Ddd\Infrastructure\Application\Service;
  * Class DummySessionTest
  * @package Ddd\Infrastructure\Application\Service
  */
-class DummySessionTest extends \PHPUnit_Framework_TestCase
+class DummySessionTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @test

@@ -4,7 +4,7 @@ namespace Ddd\Domain\Specification;
 
 use Ddd\Infrastructure\Domain\Specification\FakeSpecification;
 
-class SpecificationTest extends \PHPUnit_Framework_TestCase
+class SpecificationTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @test
