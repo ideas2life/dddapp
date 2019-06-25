@@ -1,7 +1,8 @@
 ideas2life/dddapp
 =====================
 
-[![Build Status](https://secure.travis-ci.org/ideas2life/dddapp.svg?branch=master)](http://travis-ci.org/dddinphp/ddd)
+[![Build Status](https://travis-ci.com/ideas2life/dddapp.svg?branch=master)](https://travis-ci
+.com/ideas2life/dddapp)
 
 This library is forked from [carlosbuenosvinos/ddd](https://github.com/dddinphp/ddd)
 
